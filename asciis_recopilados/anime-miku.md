@@ -1,7 +1,7 @@
 
-[Miku](http://anime.en.utf8art.com/arc/hatsune_miku_24)
+[Miku](http://anime.en.utf8art.com/arc/hatsune_miku_24.html)
 
-´´´
+
 　　　 　　 {＾>,-―-,<＾}
 　　　 　 ./,V,≠´;;;;;ヽ､
 　　　　  /,;:〃:;;／}丿λ.
@@ -11,5 +11,3 @@
 　 |,;;::|　／}｀ｽ/￣￣￣￣￣/
 .　|ゝ;::;:|(_;::つ/~#Linux/　YUM
 .￣￣￣￣￣＼/＿＿＿＿＿＿/￣￣￣￣￣
-
-´´´
