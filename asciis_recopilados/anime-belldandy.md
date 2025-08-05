@@ -28,4 +28,4 @@ Necesitas establecer la fuente [MS PGothic ](https://learn.microsoft.com/es-mx/t
 
 #### Vista previa
 
-![Vista previa](belldandy.png)
+![Vista previa](anime-belldandy.png)
