@@ -1,5 +1,7 @@
 [Belldandy (Oh My Goddess!)](http://anime.en.utf8art.com/arc/oh_my_goddess_12.html)
 
+Necesitas establecer la fuente [MS PGothic ](https://learn.microsoft.com/es-mx/typography/font-list/ms-pgothic) en tamaño 12.
+
 ```
 
 　　　　　　　　　　　　 　 ／‐7　／_,| |　_ -=＝＞iｲｋ'‐_- 、 ⌒!!-_（ 　 ＼ ＼
