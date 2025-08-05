@@ -49,15 +49,13 @@ A continuación se listan enlaces útiles para comenzar con cada herramienta. To
 
 ## Recursos adicionales: Arte ASCII con Braille
 
-Estas herramientas permiten experimentar con arte ASCII utilizando caracteres del sistema Braille. Son especialmente útiles para lograr mayor resolución visual en espacios reducidos de terminal.
+Estas herramientas ofrecen una forma curiosa de crear arte ASCII usando caracteres del sistema Braille. Son ideales para lograr más detalle visual en espacios pequeños dentro de una terminal.
 
-- **Braille ASCII Art**
-  Herramienta y guía interactiva para aprender cómo se representa arte visual usando caracteres Braille en lugar de bloques estándar. Explica cómo lograr "píxeles más densos" gracias a la estructura del Braille Unicode.
-  👉 [lachlanarthur.github.io/Braille-ASCII-Art](https://lachlanarthur.github.io/Braille-ASCII-Art/)
+- **[Braille ASCII Art](https://lachlanarthur.github.io/Braille-ASCII-Art)**
+  Herramienta interactiva para explorar cómo se puede representar arte visual con caracteres Braille en lugar de los bloques tradicionales.
 
-- **Image to Braille**
-  Conversor visual que transforma imágenes en representaciones Braille en tiempo real. Permite ajustar contraste y escala para obtener resultados óptimos directamente desde el navegador.
-  👉 [505e06b2.github.io/Image-to-Braille](https://505e06b2.github.io/Image-to-Braille/)
+- **[Image to Braille](https://505e06b2.github.io/Image-to-Braille)**
+  Conversor visual que transforma imágenes en arte Braille en tiempo real. Permite ajustar el contraste y el tamaño para obtener mejores resultados desde el navegador.
 
 A continuación comparto las imágenes que generé, vean los resultados.
 
