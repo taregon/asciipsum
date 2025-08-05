@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Forzar finales de línea LF en todos los archivos de texto del repositorio
+* text=auto eol=lf
