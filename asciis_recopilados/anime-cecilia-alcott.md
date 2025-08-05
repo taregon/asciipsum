@@ -1,7 +1,9 @@
-http://anime.en.utf8art.com/arc/infinite_stratos_47.html
-http://anime.en.utf8art.com/arc/infinite_stratos_47.html
+[Cecilia Alcoot / Infinite Stratos](http://anime.en.utf8art.com/arc/infinite_stratos_47.html)
+
+Necesitas establecer la fuente [MS PGothic ](https://learn.microsoft.com/es-mx/typography/font-list/ms-pgothic) en tamaño 12.
 
 
+```
             /＞='ー'=＼    丶    ヽ   ＼
            /::::::::::＼    :          ヽ
           /::::＞'´￣ 「￣Y⌒:ﾍ   ｉ    :   ',
@@ -24,3 +26,4 @@ http://anime.en.utf8art.com/arc/infinite_stratos_47.html
        (  (＞ L_<j.  ＼ .丶 `＜     l::l  l:lﾘ    .  ヽ  ＼
         ヽ／／ ／   __..＞ー‐─‐'  ヽ  .l:ｌ   l:/    ヽ    ヽ  丶
        ／   ./    f:::.(￣￣´  ∧  ＼ l:l  {:...    丶       ＼
+```

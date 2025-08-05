@@ -4,6 +4,8 @@
 Este lo adapte para la terminal.
 No hace falta una fuente especial, solo que sea mono.
 
+```
+
 　　　 　　 {＾>,-―-,<＾}
 　　　 　 ./,V,≠´;;;;;ヽ､
 　　　　  /,;:〃:;;／}丿λ.
@@ -13,3 +15,4 @@ No hace falta una fuente especial, solo que sea mono.
 　 |,;;::|　／}｀ｽ/￣￣￣￣￣/
 .　|ゝ;::;:|(_;::つ/~#Linux/　YUM
 .￣￣￣￣￣＼/＿＿＿＿＿＿/￣￣￣￣￣
+```
