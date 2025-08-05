@@ -25,3 +25,7 @@ Necesitas establecer la fuente [MS PGothic ](https://learn.microsoft.com/es-mx/t
 　 ///! 　 /　 !!　　ｉ| 　 ／　　, へ、　 {　rｭ＼　ﾍ　 ﾒ ＾ヾ.O}　ﾘ!. 　 l!
 
 ```
+
+---
+
+![Vista previa](belldandy.png)
