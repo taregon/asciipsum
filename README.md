@@ -59,6 +59,7 @@ Estas herramientas permiten experimentar con arte ASCII utilizando caracteres de
   Conversor visual que transforma imágenes en representaciones Braille en tiempo real. Permite ajustar contraste y escala para obtener resultados óptimos directamente desde el navegador.
   👉 [505e06b2.github.io/Image-to-Braille](https://505e06b2.github.io/Image-to-Braille/)
 
+A continuación comparto las imágenes que generé, vean los resultados.
 
 ### Komi-san
 
