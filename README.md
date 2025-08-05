@@ -1,4 +1,4 @@
-# Herramientas de Arte ASCII y Visuales para la Terminal
+# Herramientas de Arte ASCII
 
 Este documento presenta una selección de utilidades que permiten generar arte ASCII, animaciones y efectos visuales directamente desde la terminal. Son herramientas ligeras, orientadas tanto a la personalización como al entretenimiento o la creación visual.
 
@@ -31,7 +31,6 @@ A continuación se listan enlaces útiles para comenzar con cada herramienta. To
 - **TOIlet**
   Proyecto hermano de FIGlet con más efectos. Documentación y código aquí:
   👉 [github.com/cacalabs/toilet](https://github.com/cacalabs/toilet)
-  👉 [caca.zoy.org/wiki/toilet](https://caca.zoy.org/wiki/toilet)
 
 - **cowsay**
   Sitio moderno con ejemplos interactivos y versiones para distintos lenguajes:
@@ -48,30 +47,20 @@ A continuación se listan enlaces útiles para comenzar con cada herramienta. To
   👉 [github.com/google/gif-for-cli](https://github.com/google/gif-for-cli)
 
 
+## Recursos adicionales: Arte ASCII con Braille
+
+Estas herramientas permiten experimentar con arte ASCII utilizando caracteres del sistema Braille. Son especialmente útiles para lograr mayor resolución visual en espacios reducidos de terminal.
+
+- **Braille ASCII Art**
+  Herramienta y guía interactiva para aprender cómo se representa arte visual usando caracteres Braille en lugar de bloques estándar. Explica cómo lograr "píxeles más densos" gracias a la estructura del Braille Unicode.
+  👉 [lachlanarthur.github.io/Braille-ASCII-Art](https://lachlanarthur.github.io/Braille-ASCII-Art/)
+
+- **Image to Braille**
+  Conversor visual que transforma imágenes en representaciones Braille en tiempo real. Permite ajustar contraste y escala para obtener resultados óptimos directamente desde el navegador.
+  👉 [505e06b2.github.io/Image-to-Braille](https://505e06b2.github.io/Image-to-Braille/)
 
 
-## Baner Grifos
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║       _          (`-.                       .-')          _       ║
-║       \`----.    ) ^_`)                   (`_^ (    .----`/       ║
-║,__     \__   `\_/  ( `                     ` )  \_/`   __/     __,║
-║ \_\      \__  `|   }__                     __{    |`  __/     /_/ ║
-║   \\  .--' \__/    }_ \                   / _{    \__/ '--.  //   ║
-║    ))/   \__,<  /_/ <_/                   \_> \_\  >,__/   \((    ║
-║    ((|  _/_/ `\ \_                             _/ /` \_\_  |))    ║
-║     `\_____\\  )__\                           /__(  //_____/`     ║
-║===================================================================║
-║   ____   ____   ____   ___________________   ____   ____   ____   ║
-║  /  / \ /  / \ /  / \ /                   \ / \  \ / \  \ / \  \  ║
-║ /  /\  /  /\  /  /\  /                     \  /\  \  /\  \  /\  \ ║
-║/__/  \/__/  \/__/  \/                       \/  \__\/  \__\/  \__\║
-║===================================================================║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-## Komi-san
+### Komi-san
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣶⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -101,7 +90,7 @@ A continuación se listan enlaces útiles para comenzar con cada herramienta. To
 ⣿⣿⣿⣿⣦⡈⠛⢿⣷⣄⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣴⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡎⡄⠀⠀
 ```
 
-## Yor Forger
+### Yor Forger
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⠤⠤⠤⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⠿⠋⠁⠀⠀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -128,7 +117,7 @@ A continuación se listan enlaces útiles para comenzar con cada herramienta. To
 ⠀⠀⠀⠀⠻⢿⣧⠋⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
 
-## Anime
+### Anime
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⣿⣿⣿⣿⣿⣿⣿⠛⣿⢩⣽⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠐⠶⠾ ⣿⣿⣿⣿⣿⣿⣦⢰⣿⢰⡾⠿⢿⡿⠋⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -152,7 +141,35 @@ A continuación se listan enlaces útiles para comenzar con cada herramienta. To
 ⠀⠛⠛⣯⣙⠛⠿⣿⣿⣿⣿⡘⠛⣶⣶⣤⣤⣾⣿⣤⣀⣀⣀⡠⠚⠀⢠⡟⠀⠀⠀⠀⠀⠀⠉⣿⣿⣿⣿⣿
 ```
 
-## Pusheen
+
+## Arte ASCII Alternativo
+
+A continuación se presentan ejemplos listos para copiar y reutilizar. Fueron recopilados manualmente y ajustados para mejorar su presentación y compatibilidad en terminales.
+
+
+### Baner Grifos
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║       _          (`-.                       .-')          _       ║
+║       \`----.    ) ^_`)                   (`_^ (    .----`/       ║
+║,__     \__   `\_/  ( `                     ` )  \_/`   __/     __,║
+║ \_\      \__  `|   }__                     __{    |`  __/     /_/ ║
+║   \\  .--' \__/    }_ \                   / _{    \__/ '--.  //   ║
+║    ))/   \__,<  /_/ <_/                   \_> \_\  >,__/   \((    ║
+║    ((|  _/_/ `\ \_                             _/ /` \_\_  |))    ║
+║     `\_____\\  )__\                           /__(  //_____/`     ║
+║===================================================================║
+║   ____   ____   ____   ___________________   ____   ____   ____   ║
+║  /  / \ /  / \ /  / \ /                   \ / \  \ / \  \ / \  \  ║
+║ /  /\  /  /\  /  /\  /                     \  /\  \  /\  \  /\  \ ║
+║/__/  \/__/  \/__/  \/                       \/  \__\/  \__\/  \__\║
+║===================================================================║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+
+### Pusheen
 ```
 
               ▐▀▄       ▄▀▌   ▄▄▄▄▄▄▄
@@ -179,7 +196,7 @@ A continuación se listan enlaces útiles para comenzar con cada herramienta. To
     \/_/  \/___/  \/___/   \/_/\/_/\/____/\/____/\/_/\/_/
 ```
 
-## Grifos
+### Grifos
 ```
           _          (`-.               .-')          _
           \`----.    ) ^_`)           (`_^ (    .----`/
