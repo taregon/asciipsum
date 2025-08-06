@@ -59,7 +59,7 @@ Estas herramientas ofrecen una forma curiosa de crear arte ASCII usando caracter
 
 A continuación comparto las imágenes que generé, vean los resultados.
 
-### Komi-san
+### `Komi-san.txt`
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣶⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -89,7 +89,7 @@ A continuación comparto las imágenes que generé, vean los resultados.
 ⣿⣿⣿⣿⣦⡈⠛⢿⣷⣄⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣴⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡎⡄⠀⠀
 ```
 
-### Yor Forger
+### `Yor-Forger.txt`
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⠤⠤⠤⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⠿⠋⠁⠀⠀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -116,7 +116,7 @@ A continuación comparto las imágenes que generé, vean los resultados.
 ⠀⠀⠀⠀⠻⢿⣧⠋⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
 
-### Anime
+### `Anime.txt`
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⣿⣿⣿⣿⣿⣿⣿⠛⣿⢩⣽⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠐⠶⠾ ⣿⣿⣿⣿⣿⣿⣦⢰⣿⢰⡾⠿⢿⡿⠋⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -146,7 +146,7 @@ A continuación comparto las imágenes que generé, vean los resultados.
 A continuación se presentan ejemplos listos para copiar y reutilizar. Fueron recopilados manualmente y ajustados para mejorar su presentación y compatibilidad en terminales.
 
 
-### Baner Grifos
+### `BanerGrifos.txt`
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
@@ -168,7 +168,7 @@ A continuación se presentan ejemplos listos para copiar y reutilizar. Fueron re
 ```
 
 
-### Pusheen
+### `Pusheen.txt`
 ```
 
               ▐▀▄       ▄▀▌   ▄▄▄▄▄▄▄
@@ -195,7 +195,7 @@ A continuación se presentan ejemplos listos para copiar y reutilizar. Fueron re
     \/_/  \/___/  \/___/   \/_/\/_/\/____/\/____/\/_/\/_/
 ```
 
-### Grifos
+### `Grifos.txt`
 ```
           _          (`-.               .-')          _
           \`----.    ) ^_`)           (`_^ (    .----`/
