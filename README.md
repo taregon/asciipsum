@@ -2,19 +2,19 @@
 
 Este documento presenta una selección de utilidades que permiten generar arte ASCII, animaciones y efectos visuales directamente desde la terminal. Son herramientas ligeras, orientadas tanto a la personalización como al entretenimiento o la creación visual.
 
-| Nombre             | Descripción                                                                 |
-|--------------------|------------------------------------------------------------------------------|
-| **ASCIIQuarium**   | Muestra animaciones de vida marina utilizando arte ASCII, ideal para decorar la terminal. |
-| **FIGlet**         | Genera texto en letras grandes a partir de caracteres ASCII estándar. Es ampliamente usado para encabezados y mensajes destacados. |
-| **Steam Locomotive** | Programa en C que muestra una locomotora de vapor en animación ASCII. Su propósito es meramente recreativo. |
-| **TOIlet**         | Variante extendida de FIGlet con opciones avanzadas, como filtros, fuentes personalizadas y salida con color. |
-| **boxes**          | Dibuja recuadros decorativos en ASCII alrededor de bloques de texto, con múltiples estilos disponibles. |
-| **cadubi**         | Editor interactivo de arte ASCII, permite dibujar manualmente en la terminal usando caracteres. |
-| **cowsay**         | Genera figuras ASCII de vacas (y otras) que “hablan” mediante bocadillos de texto. Se usa con frecuencia en mensajes informales o scripts de ejemplo. |
-| **gif-for-cli**    | Convierte archivos GIF u otros medios visuales en animaciones ASCII reproducibles desde la terminal. |
-| **jp2a**           | Herramienta que convierte imágenes JPEG en arte ASCII, compatible con color y escala. |
-| **lolcat**         | Aplica un efecto arcoíris al texto que se imprime línea por línea en la terminal. Funciona bien en combinación con FIGlet o TOIlet. |
-| **textdraw**       | Permite crear dibujos sencillos y texto mediante formas geométricas representadas con caracteres ASCII. |
+| Nombre               | Descripción                                                                                                                                           |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **ASCIIQuarium**     | Muestra animaciones de vida marina utilizando arte ASCII, ideal para decorar la terminal.                                                             |
+| **boxes**            | Dibuja recuadros decorativos en ASCII alrededor de bloques de texto, con múltiples estilos disponibles.                                               |
+| **cadubi**           | Editor interactivo de arte ASCII, permite dibujar manualmente en la terminal usando caracteres.                                                       |
+| **cowsay**           | Genera figuras ASCII de vacas (y otras) que “hablan” mediante bocadillos de texto. Se usa con frecuencia en mensajes informales o scripts de ejemplo. |
+| **FIGlet**           | Genera texto en letras grandes a partir de caracteres ASCII estándar. Es ampliamente usado para encabezados y mensajes destacados.                    |
+| **gif-for-cli**      | Convierte archivos GIF u otros medios visuales en animaciones ASCII reproducibles desde la terminal.                                                  |
+| **jp2a**             | Herramienta que convierte imágenes JPEG en arte ASCII, compatible con color y escala.                                                                 |
+| **lolcat**           | Aplica un efecto arcoíris al texto que se imprime línea por línea en la terminal. Funciona bien en combinación con FIGlet o TOIlet.                   |
+| **Steam Locomotive** | Programa en C que muestra una locomotora de vapor en animación ASCII. Su propósito es meramente recreativo.                                           |
+| **textdraw**         | Permite crear dibujos sencillos y texto mediante formas geométricas representadas con caracteres ASCII.                                               |
+| **TOIlet**           | Variante extendida de FIGlet con opciones avanzadas, como filtros, fuentes personalizadas y salida con color.                                         |
 
 ## ¿Dónde aprender más?
 
