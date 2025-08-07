@@ -1,2 +1,2 @@
-# Forzar finales de línea LF en todos los archivos de texto del repositorio
-* text=auto eol=lf
+# Forzar el uso de saltos de línea LF en todos los archivos de texto.
+* text eol=lf
