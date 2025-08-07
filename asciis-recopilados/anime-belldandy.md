@@ -2,6 +2,8 @@
 
 Necesitas establecer la fuente [MS PGothic](https://learn.microsoft.com/es-mx/typography/font-list/ms-pgothic) en tamaño 12.
 
+`Belldadndy.txt`
+
 ```
 
 　　　　　　　　　　　　 　 ／‐7　／_,| |　_ -=＝＞iｲｋ'‐_- 、 ⌒!!-_（ 　 ＼ ＼
