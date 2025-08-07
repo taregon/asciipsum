@@ -21,4 +21,4 @@
 　　　　 ヾヽヽゝ　　￣! |　| lヽヾ/　 /　　　　　　　 ヽ
 ```
 
-Necesitas establecer la fuente [MS PGothic ](https://learn.microsoft.com/es-mx/typography/font-list/ms-pgothic) en tamaño 12.
+Necesitas establecer la fuente [MS PGothic](https://learn.microsoft.com/es-mx/typography/font-list/ms-pgothic) en tamaño 12.
