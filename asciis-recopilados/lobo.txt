@@ -1,6 +1,6 @@
              .+i+;I:
             :=..    t:
-           =;+;:..   ii.                              (c) Paul Fawcett 1994
+           =;+;:..   ii.
           +I::;=:;;+t=i;=.
           +;;;+;i.;;:It++i;
         ;X  t+=+=;;i;=iItt+V
@@ -21,3 +21,5 @@ I;:. .  :+:YI;R..=;;=i+titIVItIYVYYYXVX=+:.....;;+t=+::=
             :=XI=+iItIiit=:IXRRIItiXiIYiIt;I==:.......:..:....;:........
             :BWRRV;YRIXY...+YRRVYVR+XIRItitI++=:.....;:.........:....:.::..
            ==+RWBXtIRRV+.+IiYRBYBRRYYIRI;VitI;=;..........:::.::;::::...;;;:.
+
+ (c) Paul Fawcett 1994
