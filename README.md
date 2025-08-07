@@ -46,6 +46,10 @@ A continuación se listan enlaces útiles para comenzar con cada herramienta. To
   Proyecto de Google para ver animaciones ASCII desde la terminal:
   👉 [github.com/google/gif-for-cli](https://github.com/google/gif-for-cli)
 
+- **ABOQE Flip**
+  Generador en línea que convierte texto normal en texto invertido (volteado 180°) usando caracteres Unicode.
+  👉 [fsymbols.com/generators/aboqe-flip](https://fsymbols.com/generators/aboqe-flip)
+
 
 ## Recursos adicionales: Arte ASCII con Braille
 
